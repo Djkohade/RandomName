@@ -1,6 +1,8 @@
 # RandomName
+<h2>Language : RU, EN, UA, UZ, ZH</h2>
 
 # RU
+![image](https://github.com/user-attachments/assets/6b1fbe23-2273-478f-afa1-a8d5d9cc384b)
 
 Программа, позволяющая рандомно выбрать случайное название.
 
@@ -20,6 +22,7 @@
 Есть функция «Показать путь», и это не путь воина, а путь до папки с файлом. На случай, если вы сканируете много подпапок. 
 
 # EN
+![image](https://github.com/user-attachments/assets/fc9d1bf5-c13b-4f9e-a348-55cd9e7c9f5c)
 
 A program that allows you to randomly select a random title.
 
